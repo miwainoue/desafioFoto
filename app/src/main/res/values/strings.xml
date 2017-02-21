@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Desafio da Foto</string>
+    <string name="selecionar">Selecionar</string>
+    <string name="txtApertarFoto">Aperte para ver uma imagem diferente:</string>
+</resources>
